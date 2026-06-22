@@ -1,20 +1,24 @@
 # Hi, I'm Roscoe 👋
 
-I'm a software engineer focused on building practical systems that hold up in real use.
+I'm a software engineer who builds modern AI web apps, backend systems, automation tools, and games.
 
-My work sits mostly around backend engineering, AI integrations, web applications, automation, and game-related systems. I’ve spent years building APIs, dashboards, internal tools, SaaS features, cloud workflows, and interactive prototypes using Python, C#/.NET, TypeScript, React, AWS, Unity, and Unreal Engine.
+Most of my work is about taking different parts of a product and making them work together properly: APIs, databases, dashboards, AI features, cloud services, user workflows, and game systems. I’ve worked on enterprise web apps, internal tools, SaaS products, automation platforms, Unity projects, and Unreal Engine prototypes.
 
-I like working on products where the moving parts need to connect cleanly: data, APIs, AI features, frontend screens, databases, background jobs, and user workflows. I care more about building something stable and maintainable than shipping a quick demo that becomes difficult to extend later.
+My main stack includes Python, C#/.NET, TypeScript, React, AWS, Unity, and Unreal Engine.
 
-## What I Work On
+I enjoy building products that are useful, stable, and easy to improve over time. I care about clean code, clear architecture, good performance, and systems that do not fall apart when the project grows.
 
-* AI-powered web apps and internal tools
-* Backend APIs, services, and workflow systems
-* SaaS dashboards, admin panels, and business applications
-* Automation tools for reporting, operations, and team workflows
+## What I Build
+
+* Modern AI web applications
+* SaaS dashboards and admin panels
+* AI-powered internal tools
+* Workflow automation and reporting systems
+* Backend APIs and microservices
 * OpenAI, LLM, chatbot, and agent-style integrations
-* Unity gameplay systems, multiplayer flows, and backend-connected features
-* Unreal Engine prototypes using C++, Blueprints, HUDs, combat logic, and interaction systems
+* Unity gameplay systems and multiplayer flows
+* Unreal Engine prototypes, HUDs, combat systems, and interactive features
+* Backend-connected game systems
 
 ## Tech Stack
 
@@ -52,7 +56,7 @@ I like working on products where the moving parts need to connect cleanly: data,
 * AI chatbots
 * Knowledge base systems
 * Workflow automation
-* AI-generated reports and summaries
+* AI reports and summaries
 
 **Cloud & DevOps**
 
@@ -85,36 +89,34 @@ I like working on products where the moving parts need to connect cleanly: data,
 
 ## Project Areas
 
-### AI Workflow Automation
+### AI Web Apps
 
-I build systems that take business inputs and turn them into structured reports, summaries, insights, and workflow actions. These usually involve dashboards, backend APIs, database storage, AI processing, and automated reporting.
+I build AI-powered web apps with dashboards, backend APIs, databases, authentication, reporting tools, and production-ready workflows.
 
-### AI Support & Knowledge Base Tools
+### Automation Systems
 
-I work on AI-powered support tools that help teams search internal knowledge, summarize conversations, answer common questions, and manage support workflows more efficiently.
+I build automation tools that help teams reduce manual work, generate reports, summarize information, and move data through business workflows.
 
-### Backend-Driven Web Applications
+### AI Support Tools
 
-I build full-stack applications where the backend, database, API layer, and frontend need to work together cleanly. Most of my focus is on reliability, clear architecture, and long-term maintainability.
+I build support and knowledge base systems that use internal documents, FAQs, chat history, and AI workflows to help teams answer questions faster.
 
-### Unity Systems
+### Full-Stack Applications
 
-I’ve built Unity systems for multiplayer rooms, private/public lobbies, host controls, player status, waiting room logic, UI flow, and backend-connected game state.
+I work on web apps where the frontend, backend, database, API layer, and cloud setup all need to work together cleanly.
 
-### Unreal Engine Systems
+### Unity Projects
 
-I’ve worked on Unreal Engine FPS prototypes with combat flow, player HUD, stamina systems, weapon handling, inventory UI, and Blueprint-driven gameplay logic.
+I build Unity systems for gameplay logic, multiplayer rooms, lobbies, host controls, player status, waiting rooms, UI flow, and backend-connected game state.
 
-## How I Think About Engineering
+### Unreal Engine Projects
 
-Good software should be easy to understand, easy to change, and reliable when people actually use it.
+I build Unreal Engine prototypes with FPS combat, player HUDs, stamina systems, weapons, inventory UI, Blueprint logic, C++ systems, and responsive gameplay feedback.
 
-I pay close attention to data flow, system boundaries, API design, performance, error handling, and how a product will behave as it grows. My goal is usually simple: build systems that teams can trust, maintain, and keep improving.
+## How I Work
 
-## Current Focus
+I like building software that is practical and maintainable.
 
-Right now, I’m focused on work that combines:
+For me, good engineering means the system is clear, the data flow makes sense, the API is reliable, the UI supports the workflow, and the product can keep growing without becoming messy.
 
-**AI + Web Applications + Automation + Game Systems**
-
-I enjoy projects where backend logic, AI workflows, frontend interfaces, cloud services, and interactive systems all need to come together as one solid product.
+Right now, my focus is on building modern AI web apps, automation systems, and games where backend logic, AI workflows, frontend interfaces, cloud services, and interactive systems come together as one solid product.
